@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Avanti1102/Avanti1102/blob/main/github_Avanti%20Banner.png)
 <h1 align="center">Hi 👋, I'm Avanti Banginwar</h1>
 <h3 align="center">Committed to Excellence in Software Engineering</h3>
 
