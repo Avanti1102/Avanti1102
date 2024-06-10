@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://avanti1102.github.io/Portfolio/](https://avanti1102.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://avanti1102.github.io/Personal_Portfolio/](https://avanti1102.github.io/Personal_Portfolio/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, PHP, SQL, Java, Flutter, C++.**
 
